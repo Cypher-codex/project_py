@@ -6,4 +6,4 @@ then import all sql  files
 NOTE
 be sure you have install mysql workbench or any server on your pc or laptop 
 and update your python also 
-######################################
+#######################################
